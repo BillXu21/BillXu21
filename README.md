@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillXu21
-- 👀 I’m interested in programing in Minecraft
-- 🌱 I’m currently learning Java and Python modding in minecraft
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on uhhh... nothing :D
 - 📫 How to reach me ...
 
