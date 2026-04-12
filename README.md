@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @BillXu21
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: email
+# Hi, I'm Bill
 
-<!---
-BillXu21/BillXu21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS @ Columbia. I build backend systems and apply ML to real-world datasets.
+
+Currently exploring:
+- geospatial / environmental ML
+- backend systems and real-time applications
+- AI systems and LLM-based workflows
